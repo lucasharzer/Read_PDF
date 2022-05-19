@@ -1,0 +1,13 @@
+cffi==1.15.0
+chardet==4.0.0
+cryptography==37.0.2
+packaging==21.3
+pdf2image==1.16.0
+pdfminer.six==20220319
+pdfplumber==0.6.1
+Pillow==9.1.0
+pycparser==2.21
+pyparsing==3.0.8
+pytesseract==0.3.9
+python-dotenv==0.20.0
+Wand==0.6.7
