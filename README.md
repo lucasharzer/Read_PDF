@@ -1,5 +1,7 @@
 # Ler PDF com Python
 
+- Funcionalidades:
+      Abrir e extrair texto e informações de arquivos PDFs feitos a partir de textos e imagens.
 
 - Bônus: Dividir um pdf
 
