@@ -1,7 +1,12 @@
 import pikepdf
+import dotenv
+import os
 
 
-with pikepdf.open("C:\\Users\\Lucas\\Documents\\GitHub\\Dividir_pdf\\doc.PDF") as pdf:
+dotenv.load_dotenv(dotenv.find_dotenv())
+local_arquivo = str(os.getenv("ARQUIVO_PARA_DIVIDIR")).strip()
+
+with pikepdf.open(local_arquivo) as pdf:
     num = len(pdf.pages)
     # página desejada: 312 (-1 pois começa com a página 0) 
 
