@@ -21,6 +21,7 @@ pip install pdfplumber
 pip install pdf2image Pillow pytesseract
 ```
 site para instalar o executável do pytesseract: https://github.com/UB-Mannheim/tesseract/wiki
+
 site para instalar o poppler: https://blog.alivate.com.au/poppler-windows/
 
 - Dividir PDF
