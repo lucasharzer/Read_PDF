@@ -1,4 +1,4 @@
-# Ler PDF com Python
+# Funcionalidades no PDF com Python e Node JS
 
 # Funcionalidades:
  Abrir e extrair texto e informações de arquivos PDFs feitos a partir de textos e imagens.
