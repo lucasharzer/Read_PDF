@@ -12,8 +12,14 @@
 # Comandos para instalar todos os pacotes usados:
 
 - PDF de texto:
+Python
 ```bash
 pip install pdfplumber
+```
+
+Node JS
+```bash
+npm i pdf-parser fs
 ```
 
 - PDF de imagem
