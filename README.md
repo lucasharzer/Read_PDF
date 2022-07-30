@@ -9,15 +9,19 @@
       <img src="https://user-images.githubusercontent.com/85804895/174914160-34236316-369c-4843-9729-03858e8275ea.gif" height=350 whith=400>
 </span>
 
+- Extrair texto de PDF 
+
+<span>
+      <img src="" height=350 whith=400>
+</span>
+
 # Comandos para instalar todos os pacotes usados:
 
 - PDF de texto:
-Python
 ```bash
 pip install pdfplumber
 ```
 
-Node JS
 ```bash
 npm i pdf-parser fs
 ```
